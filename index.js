@@ -5,7 +5,7 @@ const app = express();
 app.get("/", (req, res) => {
   res.send({
     statusCode: 200,
-    message: "Welcome to home page!"
+    message: "Welcome to home page!!"
   });
 });
 
